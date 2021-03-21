@@ -1,0 +1,14 @@
+yarm\techstroy\fullstackshop\service\WatchReviewsService.class
+yarm\techstroy\fullstackshop\controller\ContactMessageController.class
+yarm\techstroy\fullstackshop\FullstackShopApplication.class
+yarm\techstroy\fullstackshop\repository\ContactMessageRepository.class
+yarm\techstroy\fullstackshop\repository\WatchReviewsRepository.class
+yarm\techstroy\fullstackshop\service\ContactMessageService.class
+yarm\techstroy\fullstackshop\repository\WatchItemRepository.class
+yarm\techstroy\fullstackshop\controller\WatchReviewController.class
+yarm\techstroy\fullstackshop\model\WatchReviews.class
+yarm\techstroy\fullstackshop\model\WatchItem.class
+yarm\techstroy\fullstackshop\request\RequestBodyAddReview.class
+yarm\techstroy\fullstackshop\model\ContactMessage.class
+yarm\techstroy\fullstackshop\service\WatchItemService.class
+yarm\techstroy\fullstackshop\controller\WatchItemController.class
