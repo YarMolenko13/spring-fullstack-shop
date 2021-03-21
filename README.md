@@ -1,2 +1,2 @@
 spring-fullstack-shop api
-https://github.com/YarMolenko13/spring-fullstack-shop.git
+https://www.getpostman.com/collections/0f83f9c97ea25ae0dc5e - Postman API
