@@ -1,2 +1,2 @@
 spring-fullstack-shop api
-https://github.com/YarMolenko13/spring-fullstack-shop.git
+https://github.com/YarMolenko13/vue-fullstack-shop
