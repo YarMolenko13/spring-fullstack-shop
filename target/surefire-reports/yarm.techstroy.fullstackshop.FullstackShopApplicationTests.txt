@@ -1,4 +1,4 @@
 -------------------------------------------------------------------------------
 Test set: yarm.techstroy.fullstackshop.FullstackShopApplicationTests
 -------------------------------------------------------------------------------
-Tests run: 1, Failures: 0, Errors: 0, Skipped: 0, Time elapsed: 6.568 s - in yarm.techstroy.fullstackshop.FullstackShopApplicationTests
+Tests run: 1, Failures: 0, Errors: 0, Skipped: 0, Time elapsed: 7.614 s - in yarm.techstroy.fullstackshop.FullstackShopApplicationTests
